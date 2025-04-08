@@ -1,0 +1,4320 @@
+Valores RGB para a imagem 1.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [51.7068457  46.1399566  42.90430664]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 10.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [80.15054579 86.78931207 93.95354167]
+Valor mínimo de R, G, B: [0 3 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 100.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [25.07624457 17.24742947 10.30864692]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 101.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [94.41650174 92.63462565 91.09822917]
+Valor mínimo de R, G, B: [6 7 6]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 103.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [59.28723416 63.4173253  71.91278103]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 104.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [81.77446832 83.43753798 83.82582899]
+Valor mínimo de R, G, B: [0 6 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 105.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [115.64896593 112.05887912 109.08852322]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 106.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [104.8509082  123.07591146 120.00301758]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 107.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [78.07480035 79.38543511 77.79794488]
+Valor mínimo de R, G, B: [0 8 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 11.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [84.96427517 78.07277995 71.78749349]
+Valor mínimo de R, G, B: [1 2 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 110.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 84.4744401  119.42815647 124.93071615]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 112.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [105.78564996 134.13014214 130.30088108]
+Valor mínimo de R, G, B: [ 0 14  0]
+Valor máximo de R, G, B: [253 255 255]
+
+Valores RGB para a imagem 113.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [129.12301215 147.41661133 144.77748589]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 114.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [35.37912326 30.6496365  26.36875434]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 115.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [109.73491862 124.50578885 112.96451063]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 116.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [94.57890408 90.75588216 89.58472548]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 117.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [79.65029514 81.18629449 84.60775933]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 118.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [115.94306858 122.12332465 118.60144314]
+Valor mínimo de R, G, B: [0 5 1]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 119.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 80.62088542  93.27852865 107.85381619]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 12.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [93.22593641 96.56938694 94.53558594]
+Valor mínimo de R, G, B: [0 4 2]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 120.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [93.74756944 90.90192383 89.76029839]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 123.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [110.33661892 109.2533865  108.78598958]
+Valor mínimo de R, G, B: [ 8 10  9]
+Valor máximo de R, G, B: [255 254 255]
+
+Valores RGB para a imagem 124.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 88.72550673 107.89228082 104.50395725]
+Valor mínimo de R, G, B: [0 3 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 125.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [114.23410482 125.63402018 122.03463108]
+Valor mínimo de R, G, B: [0 3 4]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 128.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [47.67879449 47.26917426 41.12350803]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 129.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [109.15184136 143.47836372 152.12710178]
+Valor mínimo de R, G, B: [0 7 9]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 13.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [30.91984266 24.79069878 20.53283529]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 131.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [100.21089301 128.35173611 129.16473958]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 132.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [78.11320855 73.77312934 73.00223524]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 136.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 86.71005425  99.83106879 109.7834375 ]
+Valor mínimo de R, G, B: [0 0 1]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 138.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [76.84403646 66.25539171 46.46331272]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 14.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [96.38449761 89.51926758 83.72994792]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 140.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [115.9513227  111.28589735 106.32225477]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 141.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [28.10631293 34.40063802 19.03773546]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 142.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [35.355625  26.5573253 25.8947526]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 144.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [78.70343424 82.80296875 94.89023763]
+Valor mínimo de R, G, B: [ 0  0 13]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 145.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 84.31204644 100.2078342   99.74863064]
+Valor mínimo de R, G, B: [0 0 1]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 146.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [113.89771484 126.97113824 122.98736003]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 147.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [87.08953234 93.2037717  99.92551541]
+Valor mínimo de R, G, B: [4 3 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 148.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [83.9597092  82.34581489 82.45207031]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 149.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [128.94211806 151.38498806 153.80208116]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [248 255 255]
+
+Valores RGB para a imagem 15.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 92.66606337 116.75094727 121.49777127]
+Valor mínimo de R, G, B: [12 26 26]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 150.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [85.17840603 90.24229601 96.72996528]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 151.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [89.41118273 86.83287977 86.25773872]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 154.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 97.60946398 119.32393663 114.13248372]
+Valor mínimo de R, G, B: [0 9 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 155.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 77.27132704  88.98779405 103.54164171]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 156.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [114.8267296  136.48196398 134.05063368]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 157.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [113.29145616 126.83947591 122.76521159]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 158.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 92.93747287 110.87652344 109.07638889]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 16.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [107.0628559  111.65335286 113.18218859]
+Valor mínimo de R, G, B: [0 0 1]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 160.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [71.26319553 79.65554687 88.13551215]
+Valor mínimo de R, G, B: [0 3 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 161.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 93.51020833 134.09528863 138.93437066]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 162.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [32.48530382 29.73193359 25.60874783]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 163.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [59.58633789 72.18710938 90.19611003]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 164.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 91.89864909 126.16847005 135.52851237]
+Valor mínimo de R, G, B: [0 6 8]
+Valor máximo de R, G, B: [252 255 255]
+
+Valores RGB para a imagem 165.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 97.62848633 105.13034288 104.97889323]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 166.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [114.68966471 124.33360786 112.03860026]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 167.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [67.17837782 57.89436306 53.17902452]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 169.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [91.9903201  96.41682509 97.52588542]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 17.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 70.63059787  92.37569444 108.89789714]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 170.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [105.17902018 112.55267361  96.35581272]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [253 255 255]
+
+Valores RGB para a imagem 171.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 97.82841905 114.9687576  115.02570747]
+Valor mínimo de R, G, B: [0 2 7]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 172.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 87.27041775 111.57417752 117.83728407]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 174.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [20.78628581 13.35916124  3.68499566]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 176.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [93.2084158  92.33476888 95.5108572 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 177.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 92.15467448 121.93263997 127.73794488]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 178.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 72.77848633  95.69895291 111.56121419]
+Valor mínimo de R, G, B: [ 0  7 12]
+Valor máximo de R, G, B: [255 254 255]
+
+Valores RGB para a imagem 179.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 94.90887044 132.13872721 143.81810221]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 18.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [78.1778201  87.03239583 90.7434451 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 180.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [25.09634223 23.07847005 20.11743056]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 181.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 90.86317491 105.81494358 107.98351671]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 182.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 92.59369141 114.53635417 122.69979818]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [243 255 255]
+
+Valores RGB para a imagem 183.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [87.89924588 85.30858507 81.17160265]
+Valor mínimo de R, G, B: [3 6 3]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 184.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [126.01829102 149.87815972 155.48125977]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 185.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [141.36694444 167.06982964 179.36736437]
+Valor mínimo de R, G, B: [ 0 20  9]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 186.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [85.55237305 95.80042426 94.85887912]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 187.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [39.4033431  31.64556749 25.65839193]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 189.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 85.85629883 104.4564681  108.34470052]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 19.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 96.93938911 109.12271918 113.19821506]
+Valor mínimo de R, G, B: [0 4 4]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 190.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [107.40679253 101.15373481  96.20977214]
+Valor mínimo de R, G, B: [2 4 5]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 191.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [91.37887587 94.91258789 87.39722656]
+Valor mínimo de R, G, B: [0 4 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 192.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [87.48862739 90.41066515 93.62737739]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 193.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [21.33600911 20.7216059  16.68508355]
+Valor mínimo de R, G, B: [1 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 194.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [138.81544596 154.82734484 150.10457682]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 195.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [80.03579753 76.0535612  68.85200629]
+Valor mínimo de R, G, B: [10  2  0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 196.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 96.03527127 134.54655382 141.45107205]
+Valor mínimo de R, G, B: [0 5 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 197.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [90.50678494 92.52010091 92.17601563]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 198.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 63.66944336  89.00414931 102.01045681]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 199.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [125.89699761 125.02400065 121.47263889]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 2.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [122.55939887 150.96540039 157.14896376]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 20.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [108.85652778 107.12409722 104.2375803 ]
+Valor mínimo de R, G, B: [2 3 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 200.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [96.74649089 92.85623481 89.77994792]
+Valor mínimo de R, G, B: [5 3 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 201.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [103.87376085 136.08858181 142.83247287]
+Valor mínimo de R, G, B: [ 0 17  6]
+Valor máximo de R, G, B: [243 255 255]
+
+Valores RGB para a imagem 202.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 75.46641819 103.00890734 124.84241428]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 203.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [73.21091471 78.06892578 87.52007378]
+Valor mínimo de R, G, B: [0 0 1]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 205.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [80.08444553 93.88817057 78.9596799 ]
+Valor mínimo de R, G, B: [0 6 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 206.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [108.59570312 132.66907444 130.67046658]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 207.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [117.64380642 140.45672309 137.0164605 ]
+Valor mínimo de R, G, B: [0 0 1]
+Valor máximo de R, G, B: [251 255 255]
+
+Valores RGB para a imagem 208.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 91.43359701 117.01112413 121.86591254]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 209.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [128.71037326 151.35096246 154.55196181]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 211.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [114.4361263  129.31986111 125.2205957 ]
+Valor mínimo de R, G, B: [0 3 3]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 212.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [40.34535265 35.80251194 30.66003364]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 213.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [111.09266819 116.98584093 110.36154405]
+Valor mínimo de R, G, B: [0 9 6]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 214.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 81.33472873 106.11867839 100.31442383]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 215.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 78.56428819 105.31744575 113.92958116]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 217.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [47.64829861 75.16076606 99.36993056]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 218.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 84.68725369  99.59987522 120.14002604]
+Valor mínimo de R, G, B: [0 1 5]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 219.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [101.52436198 135.64572808 147.32096029]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 22.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [31.22925022 28.46948134 25.32361979]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 220.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [35.76912109 31.63686415 30.42148763]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 221.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [87.79011068 83.22160807 80.95186632]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 222.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 89.29727973 131.17338542 145.61658854]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 223.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [102.83903971  99.76261936  96.98904731]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 224.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 74.74568902  92.15972548 112.42924588]
+Valor mínimo de R, G, B: [0 3 3]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 225.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [116.35900499 115.10095703 111.38768989]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 226.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [74.98625109 81.12153537 88.2695497 ]
+Valor mínimo de R, G, B: [ 5  0 16]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 227.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [50.50029297 63.16164931 74.59207248]
+Valor mínimo de R, G, B: [0 3 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 229.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [80.50851997 85.37269531 95.37476888]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 23.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 94.48616645 108.99041775 103.60131402]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 230.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 94.58843533 121.1813444  119.6196875 ]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [247 255 255]
+
+Valores RGB para a imagem 231.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [117.22245443 119.20800564 107.72097873]
+Valor mínimo de R, G, B: [6 5 5]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 232.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 91.1491059   94.56109701 101.9251161 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 233.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [107.35420464 109.21762695  98.48726888]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 236.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [110.49336806 106.65126085 103.03791341]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 237.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [108.68589193 104.17941298  98.9259299 ]
+Valor mínimo de R, G, B: [5 4 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 240.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [77.0853559  86.79140082 97.50019206]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 241.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [87.56058811 93.35079753 84.27164931]
+Valor mínimo de R, G, B: [0 3 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 242.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [107.04456597 106.5353418  101.60948242]
+Valor mínimo de R, G, B: [4 8 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 244.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 91.38907335 126.00484375 135.59164062]
+Valor mínimo de R, G, B: [0 0 3]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 245.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [106.33824653 118.95188585 112.34934896]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 246.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 89.32318902 115.56814562 143.51760417]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 247.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [79.30212131 93.17266602 78.00695421]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 248.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [54.58764323 48.69504232 43.19949436]
+Valor mínimo de R, G, B: [3 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 249.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 93.04406359 110.55074653 108.74596788]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 25.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [87.61849392 97.19775933 95.06953342]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 250.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [117.09804145 114.29834635 111.01413194]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 251.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [109.93856337 125.07375217 121.20089627]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [252 255 255]
+
+Valores RGB para a imagem 252.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [97.29624566 91.20900391 85.09184136]
+Valor mínimo de R, G, B: [5 6 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 253.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [109.783176   122.3911697  118.59091797]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [250 255 255]
+
+Valores RGB para a imagem 254.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [90.24107422 87.17291667 84.22725152]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 255.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 83.76030816  98.76817383 119.71775282]
+Valor mínimo de R, G, B: [0 0 2]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 256.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [106.3431901  119.11086046 112.4608214 ]
+Valor mínimo de R, G, B: [5 6 0]
+Valor máximo de R, G, B: [244 255 255]
+
+Valores RGB para a imagem 258.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [109.10450304 124.15886719 112.86149306]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 259.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [100.42812283 102.4292513  102.64122613]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 26.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 88.6228776   94.30051866 101.41661784]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 260.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [124.36231554 141.44797526 143.71850043]
+Valor mínimo de R, G, B: [0 5 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 261.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [115.1024707  129.93106337 124.69987196]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [252 255 255]
+
+Valores RGB para a imagem 262.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [76.12009332 73.74566623 72.75010959]
+Valor mínimo de R, G, B: [1 5 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 263.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [106.86584527 111.04847331  96.57458442]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 265.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 97.61516602 115.31046549 114.99503472]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 266.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 72.9299056   89.80502062 103.50396593]
+Valor mínimo de R, G, B: [0 7 1]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 267.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 67.62082357  90.43736545 106.43226997]
+Valor mínimo de R, G, B: [0 3 3]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 268.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [79.09808919 92.19418294 97.50639757]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 269.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [78.52617405 61.36871311 49.29567383]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 27.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 94.46805013  97.82080621 100.84016385]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 270.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [45.87866428 40.01343641 34.7692372 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 271.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 85.09192925 101.60023329 101.10723633]
+Valor mínimo de R, G, B: [0 1 1]
+Valor máximo de R, G, B: [254 255 255]
+
+Valores RGB para a imagem 272.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 87.10055773 134.75099935 166.33588759]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 273.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 83.05222005 116.82038086 132.71419922]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 275.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 85.8722819   91.49925456 100.18104492]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 276.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [127.58364909 135.34637695 127.20112413]
+Valor mínimo de R, G, B: [10 17 15]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 277.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [145.7843674  153.00169705 159.81296224]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 278.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [79.32333442 89.67934136 96.35162652]
+Valor mínimo de R, G, B: [0 7 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 279.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [43.13484809 33.82848958 29.11254666]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 28.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [100.179324   107.28219293 107.16697483]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 280.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [103.88784614 122.63141385 116.21787652]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 281.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 93.4238303  131.49173394 143.38083442]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 282.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [43.83518229 65.95391602 79.58015951]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 283.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 84.4369694   92.55306966 104.10523329]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 284.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 93.27637804 110.85594293  99.00169813]
+Valor mínimo de R, G, B: [0 7 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 286.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 89.91885634 119.68019857 131.20699653]
+Valor mínimo de R, G, B: [0 7 8]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 287.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [69.23860677 28.21458008 29.62179688]
+Valor mínimo de R, G, B: [14  0  0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 288.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [123.98902018 131.59059136 127.97834744]
+Valor mínimo de R, G, B: [ 6 10 11]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 289.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [131.01531684 148.5702181  142.39990017]
+Valor mínimo de R, G, B: [2 6 8]
+Valor máximo de R, G, B: [249 255 255]
+
+Valores RGB para a imagem 29.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [38.9040918  28.05477105 18.61482964]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 290.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [72.99548828 92.31664714 93.83183811]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 292.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 84.12748047 120.13530816 125.4110395 ]
+Valor mínimo de R, G, B: [0 5 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 293.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 95.93231228 121.66657444 131.38351345]
+Valor mínimo de R, G, B: [ 0  8 17]
+Valor máximo de R, G, B: [254 255 255]
+
+Valores RGB para a imagem 294.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 90.72583225 142.11537218 163.59677734]
+Valor mínimo de R, G, B: [0 4 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 295.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [105.93837348 134.66460069 130.72328342]
+Valor mínimo de R, G, B: [0 6 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 296.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 81.80048828  99.5623763  102.2837793 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 3.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [85.72915256 85.88561632 89.0159082 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 30.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 96.59308702 132.91592014 147.14174045]
+Valor mínimo de R, G, B: [ 7 17  0]
+Valor máximo de R, G, B: [252 255 255]
+
+Valores RGB para a imagem 300.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [76.28427409 82.46291992 90.72362413]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 301.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 83.22233832 103.32139106 107.21379449]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 302.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 79.38768012  98.6562934  104.59416884]
+Valor mínimo de R, G, B: [ 0 12  9]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 303.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [58.61659939 56.34689019 56.04639431]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 305.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [14.20618273 11.02234809  9.76921875]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 306.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 88.87686415 124.42333008 140.00584635]
+Valor mínimo de R, G, B: [0 4 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 307.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 99.67955729 103.23690972 101.04925673]
+Valor mínimo de R, G, B: [1 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 308.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [48.41149957 38.1688151  34.9832704 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 309.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 98.11113824 138.94083442 145.37287977]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 31.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 75.75709201 110.10109266 127.42399631]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 311.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 82.39259983 102.92650933 110.93093967]
+Valor mínimo de R, G, B: [1 6 9]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 312.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 98.29836372 102.77242405 105.52515951]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 313.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [110.28675998 107.17029731 106.4735612 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 314.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 96.01852973 104.42419813 102.36160373]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 315.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 87.82520616 121.11417426 132.69980577]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 318.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 90.08708767 109.23447591 105.39287543]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 319.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [103.49153537 102.51693576  89.06042535]
+Valor mínimo de R, G, B: [0 6 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 322.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [34.05394965 25.54019748 21.11510742]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 323.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [21.08964735 19.33148872 16.57798503]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 325.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [117.25063585 114.45224284 112.16436198]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 327.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 74.63924805  84.16984158 102.88060113]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 328.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 88.68185981 105.47991319 108.98858073]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 329.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [57.13814345 47.21480252 43.3255523 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 330.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 87.63043511 113.70318793 124.73107964]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [255 244 255]
+
+Valores RGB para a imagem 331.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [108.65870768 124.69719401 117.19510525]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 333.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [83.96218316 81.58830838 87.04996962]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 334.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 88.51144857 114.51859049 142.08159505]
+Valor mínimo de R, G, B: [0 4 8]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 337.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [109.92229818 122.47716363 117.88157661]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 339.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [44.47515408 65.86592556 78.79302083]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 34.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [78.58378689 80.64569987 89.12933594]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 340.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 83.50287109 116.4797895  132.05900608]
+Valor mínimo de R, G, B: [0 5 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 341.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [33.67835069 31.62923286 27.5350651 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 342.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [88.52580621 87.54606662 88.72235135]
+Valor mínimo de R, G, B: [4 6 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 343.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [113.67686089 105.87773872 102.42661892]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 344.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [108.3406467  128.66402127 127.95232313]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 345.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 82.51834418  92.62917752 105.99727214]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 346.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [82.95842665 81.05467882 87.11634874]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 347.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [102.92968207 119.46569444 116.38722439]
+Valor mínimo de R, G, B: [0 3 8]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 348.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [44.75536133 36.74561523 34.07965603]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 349.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [11.49934028  9.90286567  6.59503581]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 35.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [71.73248372 74.18331272 78.7332194 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 351.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [60.59437934 58.43583767 57.7676747 ]
+Valor mínimo de R, G, B: [3 4 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 352.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 94.19388238 110.33808594 106.55558702]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 354.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [100.80731337 142.81863715 159.92116753]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 355.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [51.71332574 46.87898763 42.36431098]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 356.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 72.46844401  99.84608615 109.96348524]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 357.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [19.50188151 17.5641428  15.00985352]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 358.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [107.2176454  106.86798611 101.93418294]
+Valor mínimo de R, G, B: [ 6 10  4]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 359.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [77.55891059 81.97658854 90.96357964]
+Valor mínimo de R, G, B: [0 1 3]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 36.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [117.31681424 125.56656467 131.99732856]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [253 236 255]
+
+Valores RGB para a imagem 361.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 54.80966146  77.61009006 103.60627387]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 362.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [105.93302083 100.92454427  94.90960286]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 363.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [103.58278429 106.36029948 100.51326063]
+Valor mínimo de R, G, B: [ 6 13  6]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 364.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [86.17028646 84.80862413 84.75536458]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 365.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [81.05513455 93.5148839  89.63277669]
+Valor mínimo de R, G, B: [0 9 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 366.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [85.1440332  85.04200629 87.52540039]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 367.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [88.98155165 90.68306641 89.55833767]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 369.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 99.80032986 110.78290582 113.33285482]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 37.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [102.80280707 102.51007813  99.47625434]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [254 247 255]
+
+Valores RGB para a imagem 370.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [132.15097114 122.4170497  114.9788227 ]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 371.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 96.40679579 105.67543294 106.18920464]
+Valor mínimo de R, G, B: [0 5 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 372.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 87.91182617 134.85889431 165.52520616]
+Valor mínimo de R, G, B: [ 0 15  0]
+Valor máximo de R, G, B: [252 255 255]
+
+Valores RGB para a imagem 373.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [85.82479818 92.48844401 86.44426432]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 374.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [108.29035048 143.607551   152.73046441]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 375.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [83.24019531 80.5816276  80.35281359]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 376.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [87.820625   87.55624674 90.32127387]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 377.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [53.15772352 48.79371962 44.04316189]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 378.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 75.56529188  93.07114909 112.24666016]
+Valor mínimo de R, G, B: [ 0  8 18]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 38.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [110.94435113 122.75598741 113.85906793]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 380.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [89.97664171 93.8847819  94.68557834]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 381.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [104.98491645  98.90397786  96.55278429]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 382.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 85.97707465 111.36639106 111.08242405]
+Valor mínimo de R, G, B: [ 0 13 13]
+Valor máximo de R, G, B: [245 255 255]
+
+Valores RGB para a imagem 383.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [122.85597873 122.75443902 126.23376628]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 254]
+
+Valores RGB para a imagem 384.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [12.86860026 11.80972548  8.26853407]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 386.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [92.40888346 94.6153559  91.31591688]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 388.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 92.80516819 107.40219944 106.65070313]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 389.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [24.77572483 23.10504232 20.18717665]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 390.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 99.38612196  97.15648112 100.24625651]
+Valor mínimo de R, G, B: [0 0 2]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 391.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [118.09419488 116.28351671 114.43386393]
+Valor mínimo de R, G, B: [4 7 4]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 392.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [22.08534722 18.81419054 15.70147786]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 393.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [83.29935113 88.5084375  86.52984484]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 395.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [101.1507921  102.39224067 102.90188802]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 396.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [107.04253364 122.56630425 125.56571289]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [249 255 255]
+
+Valores RGB para a imagem 397.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [88.39697049 88.26458659 92.45153646]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 399.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [84.51712782 98.30743815 95.06031901]
+Valor mínimo de R, G, B: [ 0 10  0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 40.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [64.85854275 46.85091471 40.04652561]
+Valor mínimo de R, G, B: [3 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 400.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [53.72820855 46.82359484 42.44770942]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 401.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [118.67985026 121.36840278 123.59294379]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 403.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [17.83245226 14.02345161 12.05097765]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 404.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [88.04558268 90.92049154 94.11669488]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 405.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [56.20680556 43.14172526 32.80688477]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 406.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 64.85401367  88.65879015 101.66155273]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 407.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [125.20443793 122.38059787 117.75713759]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 408.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [86.16198134 85.81114366 88.53786784]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 409.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 94.83548177 110.78265191 105.70296875]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 41.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [100.53419705 102.02875651  92.82890299]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 410.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [29.72105252 22.80948459 19.40475369]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 411.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [78.87899848 79.45443685 82.31468641]
+Valor mínimo de R, G, B: [0 3 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 412.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [81.90632921 85.29219944 93.66661784]
+Valor mínimo de R, G, B: [0 4 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 413.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 87.12231337 108.10359809 110.08850586]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 414.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [38.51017253 28.94232313 27.47930556]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 415.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [112.98202908 112.63963433 110.83375543]
+Valor mínimo de R, G, B: [2 4 3]
+Valor máximo de R, G, B: [255 255 251]
+
+Valores RGB para a imagem 416.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 97.54542535 108.6142079   97.49303711]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 417.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [123.29325087 117.06687826 112.13992405]
+Valor mínimo de R, G, B: [9 9 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 419.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [76.09716905 75.02414822 78.76163303]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 420.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [85.17831163 83.82921875 81.92305556]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 421.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [72.93831055 83.18611871 96.4062717 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 422.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [100.60598416 108.6765191  109.27348416]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 423.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [110.17993924 122.2522895  114.47504991]
+Valor mínimo de R, G, B: [0 8 0]
+Valor máximo de R, G, B: [242 254 255]
+
+Valores RGB para a imagem 424.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [79.68594184 79.9980089  83.13978624]
+Valor mínimo de R, G, B: [3 3 8]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 425.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 81.4470855  107.0697895  118.51069553]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 427.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [77.19564562 82.19487956 93.66796766]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 428.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [62.78158529 73.61057075 84.60015516]
+Valor mínimo de R, G, B: [0 3 6]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 429.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [102.68417209 105.57534939  99.54911241]
+Valor mínimo de R, G, B: [ 3 11  0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 43.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [73.61231445 75.69236003 83.04160265]
+Valor mínimo de R, G, B: [0 3 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 430.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [114.60641276 112.72110243 114.91946072]
+Valor mínimo de R, G, B: [0 0 5]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 431.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [23.66638238 15.1684592   8.72266927]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 434.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [100.90916667 134.15846137 145.98287109]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 436.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [131.06342882 148.4567513  142.77413086]
+Valor mínimo de R, G, B: [0 5 8]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 437.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 80.15946723  93.09699002 112.50673394]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 438.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 93.81463542 106.96559787  98.44731771]
+Valor mínimo de R, G, B: [0 3 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 439.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [87.12051541 83.76019748 82.05053494]
+Valor mínimo de R, G, B: [0 3 3]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 44.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 89.20586806 104.01429579 129.85428168]
+Valor mínimo de R, G, B: [0 0 6]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 441.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 82.53822266 101.13386936 122.29534939]
+Valor mínimo de R, G, B: [0 0 4]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 442.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [84.75184679 83.63555773 84.03006185]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 443.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [109.97607639 139.82754883 146.0626671 ]
+Valor mínimo de R, G, B: [0 0 1]
+Valor máximo de R, G, B: [252 255 255]
+
+Valores RGB para a imagem 444.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [68.81143012 58.70940321 55.68828668]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 445.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [101.84405816 103.85996094  99.12078125]
+Valor mínimo de R, G, B: [6 9 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 446.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 66.81352431  97.14846029 124.56125977]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 447.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [84.07974067 85.96340278 89.70312283]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 448.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [24.22207574 22.33924371 20.07420464]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 449.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 72.62839844  89.4988661  103.73540907]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 45.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [103.85311523 102.43925456 101.04505968]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 450.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 87.74791558 111.72537218 117.45158095]
+Valor mínimo de R, G, B: [0 8 1]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 451.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [15.91879449 13.18492513 11.8039171 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 452.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 79.18980143  98.90885091 104.63993164]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 453.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 95.31726888 116.49871419 115.15674262]
+Valor mínimo de R, G, B: [0 6 7]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 456.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 89.63734592 123.94258464 135.66291233]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 459.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [77.81024957 75.4604145  81.37755534]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 460.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [118.61662977 115.74000651 113.94584527]
+Valor mínimo de R, G, B: [0 6 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 461.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 92.28158637 121.08980686 128.80099501]
+Valor mínimo de R, G, B: [0 8 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 462.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [110.47004557 134.58333876 133.58145508]
+Valor mínimo de R, G, B: [0 3 0]
+Valor máximo de R, G, B: [255 255 251]
+
+Valores RGB para a imagem 463.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [70.83868381 87.21181315 90.30075521]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 464.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [108.36118164 119.6216569  118.79529514]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 465.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 59.07675998  87.72029731 102.62174805]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 467.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 91.57672635 122.08448676 133.19734266]
+Valor mínimo de R, G, B: [0 3 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 468.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 74.29812717  84.56663737 102.07010742]
+Valor mínimo de R, G, B: [ 0  8 13]
+Valor máximo de R, G, B: [255 253 255]
+
+Valores RGB para a imagem 47.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 68.97518229  85.16784722 101.12729384]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 470.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [125.48513346 122.60435764 118.22882161]
+Valor mínimo de R, G, B: [15 13  0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 471.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 89.88078559 121.17010959 132.68847005]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 472.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [34.63734592 28.27041558 25.35974284]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 474.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 91.17757161 124.71300564 137.55895833]
+Valor mínimo de R, G, B: [0 4 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 476.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [78.83961155 88.79653646 95.60129774]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 478.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [111.60630317  99.52176324  89.00508898]
+Valor mínimo de R, G, B: [1 7 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 479.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [81.51448568 89.27023003 94.5597819 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 482.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [120.38636393 119.25425022 113.88485135]
+Valor mínimo de R, G, B: [ 4 10  0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 483.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [23.86718099 21.29536458 18.88566081]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 484.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 91.05874349  95.57296549 104.47936198]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 486.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 84.05612956 111.4832704  122.51765299]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 487.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [20.48484049 15.92440972  9.35662218]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 488.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [37.68488715 33.90282878 32.17303602]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 489.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [89.26928277 88.97138238 91.81098416]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 491.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [64.56775282 65.74727322 68.82423937]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 492.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [123.42873047 137.72203668 136.20140516]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 493.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [104.95508355 105.15145725 100.63620009]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 495.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 92.45021376 100.5419477  110.25623481]
+Valor mínimo de R, G, B: [0 2 4]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 496.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 92.95270725 123.48931207 127.23573025]
+Valor mínimo de R, G, B: [0 8 9]
+Valor máximo de R, G, B: [241 255 255]
+
+Valores RGB para a imagem 497.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [103.32742947 118.95602865 118.06890734]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 498.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [108.94186849 129.8496951  141.86941515]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 499.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 76.72193576  88.4803125  103.4312066 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 50.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 87.455102   105.51339735 105.88906359]
+Valor mínimo de R, G, B: [0 3 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 500.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [87.2285612  79.26992187 72.31319119]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 501.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [87.26906141 89.16457682 98.35960829]
+Valor mínimo de R, G, B: [0 0 3]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 502.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [87.25493598 87.48622396 88.45013997]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 503.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 93.81278646 111.60894206  99.14227865]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 504.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [101.13965061 108.56517253  97.62986437]
+Valor mínimo de R, G, B: [0 5 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 506.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 65.27880317  94.36121636 127.30876519]
+Valor mínimo de R, G, B: [4 5 6]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 507.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [107.45754449 111.43211372  99.74581923]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 508.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [85.52955404 95.92707465 95.26234049]
+Valor mínimo de R, G, B: [ 0 12  3]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 509.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [150.43155382 159.83261068 151.51651801]
+Valor mínimo de R, G, B: [ 0 11 12]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 51.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 98.35236328 128.80650933 132.42072483]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 510.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [129.14990343 151.26077257 153.8451161 ]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [231 249 255]
+
+Valores RGB para a imagem 511.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [145.31864909 152.46375109 159.28694987]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [251 255 255]
+
+Valores RGB para a imagem 512.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 83.53204753  95.94592122 106.20351888]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 513.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [127.83392904 162.85271159 171.57906359]
+Valor mínimo de R, G, B: [ 0 19 22]
+Valor máximo de R, G, B: [244 255 255]
+
+Valores RGB para a imagem 514.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 98.59472005 102.10507595 100.12813694]
+Valor mínimo de R, G, B: [6 7 8]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 516.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [115.22024089 122.13614366 119.2146365 ]
+Valor mínimo de R, G, B: [ 0 14 12]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 517.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [44.09380751 37.48994141 32.89631836]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 518.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [136.14779622 155.91222222 153.92165473]
+Valor mínimo de R, G, B: [ 0 13 16]
+Valor máximo de R, G, B: [247 255 255]
+
+Valores RGB para a imagem 519.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [107.6942296  105.96064236 104.18975152]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 52.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [80.22860243 91.69923069 97.11203559]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 521.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 95.53867079 108.68241428 105.83135959]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 522.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [83.4738878  73.68240343 78.46731228]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 524.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [102.69770508 119.48946181 114.56472656]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 525.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 90.84439128 119.61662543 123.85588325]
+Valor mínimo de R, G, B: [ 0 19 15]
+Valor máximo de R, G, B: [246 255 255]
+
+Valores RGB para a imagem 527.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 97.24735677 104.5753635   94.74144314]
+Valor mínimo de R, G, B: [0 7 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 528.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [76.50048611 68.01730577 65.55380751]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 529.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [82.3079579  82.59556315 79.54664931]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 53.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [98.78255208 97.49031033 96.44780382]
+Valor mínimo de R, G, B: [0 0 3]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 530.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 89.9230599   96.17979384 103.98727973]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 531.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 80.43030273 120.00630859 149.5658865 ]
+Valor mínimo de R, G, B: [0 3 0]
+Valor máximo de R, G, B: [243 246 255]
+
+Valores RGB para a imagem 534.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [18.21847439 16.47594076 13.13626736]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 535.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 96.49856445 101.65067708 106.70478624]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 536.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [100.41307509  97.44458442  95.15004774]
+Valor mínimo de R, G, B: [1 2 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 538.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 86.9031901   95.0211046  102.67046224]
+Valor mínimo de R, G, B: [0 6 8]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 539.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [93.95206923 97.06183485 91.33551432]
+Valor mínimo de R, G, B: [3 4 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 54.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [105.64934896 119.22835612 102.22969944]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 540.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [104.52753689 105.83640299 109.36087999]
+Valor mínimo de R, G, B: [0 0 2]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 541.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [100.08116536 111.61416124  99.39745334]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 542.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [104.15488932 114.88033095 111.6290842 ]
+Valor mínimo de R, G, B: [0 4 4]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 543.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [100.34995985  94.38715929  84.10083333]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 547.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [117.70198025 115.69704102 116.64107096]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 548.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [140.2265918  139.99433811 136.60813368]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 549.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 92.38559462 105.31575195  99.62135634]
+Valor mínimo de R, G, B: [0 6 2]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 55.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [119.96877821 108.72134983  93.8609809 ]
+Valor mínimo de R, G, B: [6 1 0]
+Valor máximo de R, G, B: [255 255 254]
+
+Valores RGB para a imagem 550.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 91.70791124  96.3287283  104.97342882]
+Valor mínimo de R, G, B: [0 5 0]
+Valor máximo de R, G, B: [255 253 255]
+
+Valores RGB para a imagem 551.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [111.68638129 116.68932292 109.12612305]
+Valor mínimo de R, G, B: [0 4 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 552.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [107.12763997 110.78468967  96.39202582]
+Valor mínimo de R, G, B: [0 3 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 553.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [78.78779731 83.73918077 93.593801  ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 556.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 91.88953776 124.61465169 137.5646582 ]
+Valor mínimo de R, G, B: [ 0 12  0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 557.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 82.01613281 111.64485352 129.27971137]
+Valor mínimo de R, G, B: [0 0 2]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 558.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [107.42227431 123.12378798 115.78664171]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 252]
+
+Valores RGB para a imagem 56.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [105.91607856 109.17979275 113.05406684]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 560.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [101.05620117 102.98958008  95.53524414]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 561.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 82.80708225 111.84765516 128.69525065]
+Valor mínimo de R, G, B: [ 0 10 12]
+Valor máximo de R, G, B: [251 255 255]
+
+Valores RGB para a imagem 562.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [114.70499891 121.28982964 116.28780599]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 563.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [82.5431684  84.27934679 85.30206489]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 254]
+
+Valores RGB para a imagem 564.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 94.78527886 109.98617079 104.06872504]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 565.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 86.37787977 103.51925022 129.90513346]
+Valor mínimo de R, G, B: [0 0 6]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 567.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [123.41835829 137.9315191  136.06310764]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 568.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [46.36166775 39.54827474 34.02787326]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 569.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [74.23587565 90.10697483 95.11140191]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 57.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 92.03044596 121.93571289 135.95792643]
+Valor mínimo de R, G, B: [0 9 0]
+Valor máximo de R, G, B: [251 255 255]
+
+Valores RGB para a imagem 570.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 98.1204872  118.64619683 115.03673177]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 571.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [110.00433268 112.40610243 112.88523655]
+Valor mínimo de R, G, B: [0 5 5]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 572.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [113.01549479 112.68392361 110.59951389]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 573.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [123.98634549 117.11138889 111.81705512]
+Valor mínimo de R, G, B: [3 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 574.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [73.14087891 80.20389323 85.68107205]
+Valor mínimo de R, G, B: [1 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 575.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [77.30584201 82.37682726 93.67465061]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 577.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [86.51386393 86.36276801 89.45234158]
+Valor mínimo de R, G, B: [0 5 2]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 578.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [88.57106988 88.62199219 92.45378038]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 579.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [105.9242296  100.88009874  96.75030382]
+Valor mínimo de R, G, B: [1 4 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 58.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [104.12033312  97.35392687  96.0451454 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 580.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 70.57918294  93.34439019 109.68874566]
+Valor mínimo de R, G, B: [0 2 4]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 581.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [114.40088976 133.53764648 136.62400282]
+Valor mínimo de R, G, B: [0 3 0]
+Valor máximo de R, G, B: [255 255 250]
+
+Valores RGB para a imagem 582.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [67.50301541 53.38505642 44.26193793]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 583.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 99.0380957   97.16746311 100.56121528]
+Valor mínimo de R, G, B: [0 3 4]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 584.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [85.65746419 90.74895942 97.08876628]
+Valor mínimo de R, G, B: [0 6 5]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 585.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [49.69387587 62.69644423 74.03603733]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 586.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 82.7494477   99.55076823 102.77980686]
+Valor mínimo de R, G, B: [ 0  8 12]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 587.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [138.21254666 138.08854818 135.40164171]
+Valor mínimo de R, G, B: [4 5 7]
+Valor máximo de R, G, B: [255 254 252]
+
+Valores RGB para a imagem 588.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [91.4418457  89.76705404 88.00827799]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 589.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 90.26923286 107.43841037 104.56554145]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [245 255 255]
+
+Valores RGB para a imagem 59.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [100.92792752 108.83834961 109.7157487 ]
+Valor mínimo de R, G, B: [0 2 2]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 590.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [58.97496745 46.72177409 34.78880534]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 591.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [28.77487413 29.85461263 26.34405924]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 592.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 99.01661892 108.49668837 122.55504883]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 593.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [22.52551541 21.31027778 21.12508681]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 594.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 56.29602756  78.84051975 103.89351237]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 595.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 74.74129015  85.53217014 102.98824436]
+Valor mínimo de R, G, B: [0 6 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 597.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [89.84156901 91.35804687 90.51891059]
+Valor mínimo de R, G, B: [0 0 4]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 598.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [86.80826389 85.48675564 85.16132378]
+Valor mínimo de R, G, B: [2 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 599.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [109.03577799 129.57597439 140.51314128]
+Valor mínimo de R, G, B: [0 9 1]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 6.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [100.8795421  112.16553385 100.44216688]
+Valor mínimo de R, G, B: [0 7 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 60.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [106.24288194 102.75883681  99.68919488]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 600.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 90.41123481 109.07869575 105.95918945]
+Valor mínimo de R, G, B: [0 9 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 601.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [120.16200087 119.99391819 121.81867513]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 603.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [104.53374783 103.34680013 101.31131185]
+Valor mínimo de R, G, B: [5 5 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 604.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [105.33940213 120.63538628 119.90468967]
+Valor mínimo de R, G, B: [0 2 3]
+Valor máximo de R, G, B: [254 255 255]
+
+Valores RGB para a imagem 605.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [73.37602648 73.45491536 76.41249023]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 606.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [105.60450846  96.5415408   91.00117296]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 607.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [128.00645616 137.16416884 148.91659939]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 608.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 78.05667318 119.48082682 152.26179362]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 609.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 89.22667318  95.1873112  102.21702474]
+Valor mínimo de R, G, B: [ 2 10  7]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 61.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 82.24775065 109.21865885 107.08484484]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 610.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [97.18652995 90.90078559 88.08846354]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 611.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [97.50998698 92.04211914 97.30659505]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 612.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [42.24536458 32.20142904 28.29134223]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 614.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [101.63580946 120.77351454 118.89685872]
+Valor mínimo de R, G, B: [ 2 16 12]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 615.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [116.4850293  111.9861849  106.13246853]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 616.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [126.37872396 150.11663845 155.74239258]
+Valor mínimo de R, G, B: [ 0 22  0]
+Valor máximo de R, G, B: [254 255 255]
+
+Valores RGB para a imagem 617.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [101.13446723 120.63472005 118.81693685]
+Valor mínimo de R, G, B: [0 4 0]
+Valor máximo de R, G, B: [242 255 255]
+
+Valores RGB para a imagem 618.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [99.76306424 98.55531576 98.88470161]
+Valor mínimo de R, G, B: [0 2 5]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 619.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [84.66412435 80.70017036 75.52206814]
+Valor mínimo de R, G, B: [1 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 621.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 91.37647027 104.54049045 100.40960395]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 622.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 89.01059136 105.13602648  94.76836372]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 623.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [124.83841037 132.60115668 128.34903754]
+Valor mínimo de R, G, B: [0 5 3]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 624.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 91.05803711 109.31638021 107.0212717 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 625.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [101.83242947 106.78349718 106.13648872]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 626.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 88.26022678 103.21433268  93.33665365]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 627.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [57.483074   43.73455295 42.53819336]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 628.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [117.76154405 125.91184353 117.23155382]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [246 255 255]
+
+Valores RGB para a imagem 629.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [73.47179036 68.31167969 65.23148655]
+Valor mínimo de R, G, B: [0 3 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 63.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [103.29040799 120.02965929 105.88027561]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 630.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [113.95151259 150.21226128 162.28423069]
+Valor mínimo de R, G, B: [0 7 3]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 632.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [75.14467231 82.78017361 87.51399523]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 635.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [102.29608615 103.56380968 103.1825076 ]
+Valor mínimo de R, G, B: [ 0 15  0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 636.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 98.26428494 101.09219293  95.15345378]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 637.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [38.59425673 33.15584635 28.77574327]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 638.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [147.39180556 142.12556098 142.12905924]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 639.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [77.58846897 86.91108724 98.37593641]
+Valor mínimo de R, G, B: [ 0  7 11]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 64.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [70.91541558 71.73240885 71.84987413]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 640.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [117.64821723 114.2870204  109.4617589 ]
+Valor mínimo de R, G, B: [2 3 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 641.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [23.74393012 20.43501194 15.29535807]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 643.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [138.79885417 138.37018338 134.99538194]
+Valor mínimo de R, G, B: [5 6 6]
+Valor máximo de R, G, B: [255 254 253]
+
+Valores RGB para a imagem 644.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [77.93301541 96.80993815 92.26655707]
+Valor mínimo de R, G, B: [0 8 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 645.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [29.86125109 27.14020291 22.98315104]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 646.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [102.64691298 101.10041124 100.64019857]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 647.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [105.33397135 104.22474826 114.09855143]
+Valor mínimo de R, G, B: [5 1 4]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 649.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [89.52740994 89.31245117 92.62088759]
+Valor mínimo de R, G, B: [0 5 2]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 650.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [119.6992079  121.04435438 116.43867187]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 651.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 84.63385634 114.92987847 126.81871419]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 652.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [15.48698459 14.20610243 10.42284288]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 653.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [105.18328885 123.69727648 120.8364171 ]
+Valor mínimo de R, G, B: [0 3 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 654.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [66.70211155 56.49914714 52.82080404]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 655.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 96.42429687 101.78643229 106.72820747]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 656.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 70.47811198  86.1574349  101.52902995]
+Valor mínimo de R, G, B: [ 0  0 17]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 659.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [105.91302517  99.90229926  98.05051215]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 66.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 98.43677517 114.95908854 110.95895508]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [251 255 255]
+
+Valores RGB para a imagem 661.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [17.84977214 18.48185113 16.75453342]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 662.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 92.95065864 121.62084635 121.16429688]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [254 255 255]
+
+Valores RGB para a imagem 663.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [35.33523872 33.38710395 29.69327474]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 666.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 95.61649306  98.58429796 101.55479492]
+Valor mínimo de R, G, B: [0 3 7]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 667.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [12.92811306 11.76375434  9.66933377]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 668.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 96.2196582 104.1586339 115.3594477]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 669.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 92.52698459 107.30435221 109.45775499]
+Valor mínimo de R, G, B: [0 4 3]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 671.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [19.77207465 18.5098839  14.66650608]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 672.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [109.99472439 125.73932075 121.32615126]
+Valor mínimo de R, G, B: [ 0 15  0]
+Valor máximo de R, G, B: [243 255 255]
+
+Valores RGB para a imagem 674.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [92.21146484 90.27400282 88.74040148]
+Valor mínimo de R, G, B: [1 6 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 675.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 99.88820313  96.43237739 102.44242187]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 676.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [90.30607639 88.30247287 82.2825434 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 677.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [85.75544596 89.59817708 87.65699436]
+Valor mínimo de R, G, B: [8 8 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 678.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [104.16989692 107.59984701 111.89387261]
+Valor mínimo de R, G, B: [ 0 10  9]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 679.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [149.30188585 157.293023   149.46390082]
+Valor mínimo de R, G, B: [ 0  8 11]
+Valor máximo de R, G, B: [255 255 253]
+
+Valores RGB para a imagem 68.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [115.57322157 113.06552843 109.04988607]
+Valor mínimo de R, G, B: [5 6 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 680.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [118.47664171 116.56693468 109.82794379]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 252 255]
+
+Valores RGB para a imagem 681.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [101.94766493  99.27241536  98.56972222]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 682.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 83.27557617  93.25472548 106.14662218]
+Valor mínimo de R, G, B: [0 4 0]
+Valor máximo de R, G, B: [255 251 255]
+
+Valores RGB para a imagem 683.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [79.58121962 81.5984809  85.77686089]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 684.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [59.76824436 48.58066732 37.96340495]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 685.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [114.16756402 133.43900174 137.12057834]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 686.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 97.78172092 101.97248481 104.6629579 ]
+Valor mínimo de R, G, B: [0 5 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 687.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 91.05355903 109.90147569 106.50162652]
+Valor mínimo de R, G, B: [ 3 14  5]
+Valor máximo de R, G, B: [254 255 255]
+
+Valores RGB para a imagem 688.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 84.49936089 100.91642144 105.33223741]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 69.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 64.60267253  87.83018229 100.11584093]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 690.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [108.89639431 120.97605035 116.17149414]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 691.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [46.05456814 24.88127496 21.12517795]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 692.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [107.30345703 109.38777778 104.10734375]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 693.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [117.06542535 125.3748763  131.73802843]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [245 249 255]
+
+Valores RGB para a imagem 694.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 83.68108073  91.97412001 100.23030165]
+Valor mínimo de R, G, B: [ 0  6 11]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 695.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [80.11682726 84.29127604 92.1591862 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 697.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [101.40701931  98.60828016  95.96982964]
+Valor mínimo de R, G, B: [7 7 7]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 698.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 79.20659397 106.01116536 114.86339844]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 699.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 95.081824   116.88959418 112.24899957]
+Valor mínimo de R, G, B: [0 4 0]
+Valor máximo de R, G, B: [247 255 255]
+
+Valores RGB para a imagem 70.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [119.36052626 121.34813694 115.93645508]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 700.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [70.83527886 79.2545204  87.80749783]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 701.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 95.49905707 109.20975586  98.40937391]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 702.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 94.59408312 105.37022135 106.7989605 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 703.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [117.87479058 133.35128581 130.83087457]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 704.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 99.04626736 132.94869032 148.03580078]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 705.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [111.4088444  109.37122504 106.72436849]
+Valor mínimo de R, G, B: [0 3 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 706.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [109.86669162 134.97485894 137.46113715]
+Valor mínimo de R, G, B: [0 5 0]
+Valor máximo de R, G, B: [254 255 255]
+
+Valores RGB para a imagem 708.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 94.3698622  119.32322591 119.44724067]
+Valor mínimo de R, G, B: [0 5 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 709.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 86.35465495  93.31635634 105.23813477]
+Valor mínimo de R, G, B: [3 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 71.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 96.8568967  123.14084635 124.11373915]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 710.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [65.40626953 66.57339301 69.91692708]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 253]
+
+Valores RGB para a imagem 711.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [61.85579536 64.22986328 69.91642036]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 712.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [102.64546549  98.98849826  96.77675347]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 713.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [18.22827474 16.41148003 13.05912109]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 714.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [95.5784451  91.52905816 90.43719618]
+Valor mínimo de R, G, B: [10  7  0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 716.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [43.44790799 35.73032118 32.86651476]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 717.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 68.7249566   97.94770725 108.30923503]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 718.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [102.98802409  99.289477    98.51881836]
+Valor mínimo de R, G, B: [1 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 720.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [20.78574653 19.03311632 16.50525825]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 253]
+
+Valores RGB para a imagem 721.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [138.79729275 125.58551866 120.50756944]
+Valor mínimo de R, G, B: [7 7 1]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 722.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [71.99283746 87.03880208 88.5353418 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 723.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 86.96949653 102.43698676  95.03417535]
+Valor mínimo de R, G, B: [0 7 6]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 724.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 87.61618707 105.94184787 106.57551215]
+Valor mínimo de R, G, B: [ 1 13 11]
+Valor máximo de R, G, B: [254 255 255]
+
+Valores RGB para a imagem 725.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [102.64570204 110.89311089 117.73213325]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 726.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [51.71700087 78.36376411 93.22540473]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [252 255 255]
+
+Valores RGB para a imagem 728.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 98.74749891 120.66902995 113.48200195]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 729.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 90.49992622 117.73992405 109.63863715]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 730.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 98.43058485 102.17176541 109.6107704 ]
+Valor mínimo de R, G, B: [0 2 7]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 732.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [90.25643555 98.79163737 94.47432075]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 733.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [140.67173828 166.14724609 178.31978299]
+Valor mínimo de R, G, B: [ 4 12 15]
+Valor máximo de R, G, B: [252 255 255]
+
+Valores RGB para a imagem 734.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [83.07241536 84.92317708 91.5128418 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 735.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [88.95667643 84.89894531 86.39912109]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 737.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [110.82393555 123.32016819 117.42120877]
+Valor mínimo de R, G, B: [3 7 1]
+Valor máximo de R, G, B: [253 255 255]
+
+Valores RGB para a imagem 738.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 62.28024306  92.69520833 127.41398329]
+Valor mínimo de R, G, B: [0 0 3]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 739.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [109.19014431 137.67767253 139.92541558]
+Valor mínimo de R, G, B: [ 0 11  0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 74.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 93.13068142 110.51347656 107.99331055]
+Valor mínimo de R, G, B: [ 0 10  5]
+Valor máximo de R, G, B: [238 255 255]
+
+Valores RGB para a imagem 740.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [93.34589844 93.73696181 95.06734049]
+Valor mínimo de R, G, B: [0 0 3]
+Valor máximo de R, G, B: [253 250 253]
+
+Valores RGB para a imagem 741.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [101.00679036  96.0022678   84.92044705]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 743.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [93.7398763  91.69930556 90.27631076]
+Valor mínimo de R, G, B: [3 4 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 745.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [80.80767036 85.37825846 90.28290582]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 746.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [60.18588542 43.63664605 39.83479492]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 747.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [47.45020182 76.5969184  97.73953016]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 75.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [103.16440755  99.10504991  97.51810764]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 750.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 98.29000868 105.10078342 116.37922635]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 751.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [88.51085178 85.69847222 82.37898329]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 752.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [23.14603841 20.66308051 18.96839084]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 753.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 92.12366645 123.49680013 127.44216037]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [253 255 255]
+
+Valores RGB para a imagem 755.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [51.36596029 48.78225477 43.40452691]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 756.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 90.74397244 132.01697591 146.09851345]
+Valor mínimo de R, G, B: [ 0  7 11]
+Valor máximo de R, G, B: [253 255 255]
+
+Valores RGB para a imagem 757.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [63.0308941  54.52283529 48.08812283]
+Valor mínimo de R, G, B: [2 2 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 758.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 85.35513346 100.81385634 100.37625326]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 759.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [77.55101128 80.78966254 87.19918186]
+Valor mínimo de R, G, B: [0 0 3]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 76.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [114.05606337 136.23726562 134.00165473]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [254 255 255]
+
+Valores RGB para a imagem 760.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [92.19222548 93.92505968 93.69534939]
+Valor mínimo de R, G, B: [0 2 1]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 761.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [19.6527615  14.35232964  8.38155924]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 762.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 88.01568793 124.30765516 140.54460069]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 764.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 98.27566081 101.49975586  95.10643012]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 765.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [76.77723958 87.225574   89.35790148]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 766.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [77.27378255 74.93575412 81.30876302]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 77.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 99.05336155 110.28377713 113.0669553 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 771.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [123.66303928 121.73184245 115.81101237]
+Valor mínimo de R, G, B: [1 4 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 772.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 90.04955729 107.10055122 102.61650174]
+Valor mínimo de R, G, B: [ 6 12  2]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 773.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 85.19729058 103.13537869  97.47384115]
+Valor mínimo de R, G, B: [0 4 0]
+Valor máximo de R, G, B: [246 255 255]
+
+Valores RGB para a imagem 774.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [110.27212457 129.08619141 123.95616645]
+Valor mínimo de R, G, B: [0 0 1]
+Valor máximo de R, G, B: [252 255 255]
+
+Valores RGB para a imagem 775.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [105.02184787 106.23577257 109.58176758]
+Valor mínimo de R, G, B: [4 4 7]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 776.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [105.75022786 101.74633572  98.00940538]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 777.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [112.09524089 123.12948568 118.05412001]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 778.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [79.58412435 78.12963542 76.78027669]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 779.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [77.0999056  95.7321875  91.52808919]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 78.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [77.90064019 67.20127713 47.6023546 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 780.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [101.02612522 108.16924154  97.24936849]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 781.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [100.10211589 101.67696181  94.54228624]
+Valor mínimo de R, G, B: [2 3 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 782.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 98.34947483 102.11942057 102.10868164]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 783.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 93.77902886 124.14833225 134.60771267]
+Valor mínimo de R, G, B: [ 0 13  7]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 784.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 92.1822092  110.59779839 108.48070421]
+Valor mínimo de R, G, B: [0 3 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 787.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [18.60098741 16.35067383 13.87687609]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 250]
+
+Valores RGB para a imagem 788.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [109.46156467 134.82901476 137.44386068]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 789.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 90.03812283 112.64454753 121.42553819]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 79.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [105.3426671  105.57036675 100.89951389]
+Valor mínimo de R, G, B: [1 2 0]
+Valor máximo de R, G, B: [255 248 246]
+
+Valores RGB para a imagem 790.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [102.27096897 100.92105035  99.98801107]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [255 255 253]
+
+Valores RGB para a imagem 791.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 90.96214952 101.32394314  98.57460503]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 253 255]
+
+Valores RGB para a imagem 793.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [107.99006619 128.81360677 128.27373806]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 794.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 97.36700629 134.42230469 148.76698459]
+Valor mínimo de R, G, B: [ 0 13  0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 795.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [17.1872526  14.59560113 12.21859375]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 796.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 88.36341797 110.07491428 113.84687283]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 797.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [112.36198242 107.57316623 102.55122938]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 798.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 92.55476454 114.07166233 118.80383789]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 8.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [103.59323134  87.58619141  90.16648329]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 80.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [114.34846354 106.60494358 103.44529839]
+Valor mínimo de R, G, B: [0 3 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 800.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [36.51789062 29.04924262 27.62257595]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 803.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [89.02354818 92.28402669 99.52189345]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 804.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [66.90916558 36.11152778 28.15977431]
+Valor mínimo de R, G, B: [11  0  0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 805.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [105.85823676 123.74627713 119.10739366]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 806.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [69.80403212 71.89456489 62.84392144]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 807.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [24.87842448 22.59636827 20.60937717]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 809.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [31.15573893 24.50028646 17.78497287]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 81.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [108.17382812 112.31730686 113.66893989]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 810.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [104.06949761 102.90736871 100.8856174 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 812.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [107.47902018 110.70374891  97.09407335]
+Valor mínimo de R, G, B: [0 4 6]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 813.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [112.86480794 100.09281793  89.77942491]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 814.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [113.34647569 108.46897027 103.37409397]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 815.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [41.92722331 40.86229384 36.41850369]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 816.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [38.23314779 29.74005642 23.4965191 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 817.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 91.9160319  104.70673394  98.73708442]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 818.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [87.55453234 88.85910482 92.72648546]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 819.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [29.84288086 27.8507053  23.75979275]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 820.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [14.3028559  13.47347005 11.4856033 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 821.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 92.36669488 109.73454861 112.37538954]
+Valor mínimo de R, G, B: [ 0  7 11]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 822.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 91.96666667 106.48318142 110.04947917]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 823.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [92.21746202 94.35004232 99.70448568]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 826.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [94.72917752 94.77559245 95.87540148]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 828.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [79.73855686 98.68223199 99.84224935]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 83.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [85.32719076 87.23064128 90.07260634]
+Valor mínimo de R, G, B: [0 3 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 830.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [33.74552734 26.67475694 21.87543294]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 831.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 77.85675022 100.79770616 120.49008247]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 832.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 99.04334852 101.14592556 105.20026476]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 833.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [75.82353082 88.97515082 88.19740234]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 834.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 96.19149197 117.1295931  111.23442491]
+Valor mínimo de R, G, B: [0 5 0]
+Valor máximo de R, G, B: [248 255 255]
+
+Valores RGB para a imagem 835.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [101.57872721 100.17277561  99.64193142]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 836.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [47.88096354 42.07859266 39.67839844]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 837.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [101.74466688 107.11426975 106.07792969]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 838.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 98.5139681  120.16234809 114.2991276 ]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 839.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [103.83336263 103.85173177 101.03260308]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 84.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 94.65233832 120.74825629 130.72950412]
+Valor mínimo de R, G, B: [0 6 1]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 841.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [53.75656359 77.87715929 87.46523872]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 843.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 90.4959592  113.32555122 123.79718316]
+Valor mínimo de R, G, B: [0 6 8]
+Valor máximo de R, G, B: [253 255 255]
+
+Valores RGB para a imagem 844.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 96.56966363 124.98755859 133.51796549]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 845.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 83.7120931  110.58394314 120.43071398]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [253 255 255]
+
+Valores RGB para a imagem 846.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [37.67154405 30.02353082 26.05434679]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 847.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 95.48986328 117.56306749 112.55851671]
+Valor mínimo de R, G, B: [ 0 20 12]
+Valor máximo de R, G, B: [235 255 255]
+
+Valores RGB para a imagem 848.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [74.77329536 80.68671441 89.0679145 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 849.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 96.59158637 117.61342882 111.52663303]
+Valor mínimo de R, G, B: [ 0 14  8]
+Valor máximo de R, G, B: [236 255 255]
+
+Valores RGB para a imagem 85.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [89.57654731 97.37253689 96.94156901]
+Valor mínimo de R, G, B: [0 7 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 850.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [143.45179145 162.22648655 165.10518229]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 852.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [96.11873481 97.28152561 94.07046441]
+Valor mínimo de R, G, B: [7 4 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 855.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [105.49703125  99.95363715  99.59440104]
+Valor mínimo de R, G, B: [ 5 11  0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 856.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [78.07998372 75.56170356 73.37145291]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 857.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [79.50403212 79.6492947  80.64524197]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 858.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 81.00936523 100.65271593 103.18926324]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 859.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [77.96       79.70171332 77.53062066]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 86.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [67.77505534 66.96550239 64.27233941]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 861.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [92.40948025 91.66350477 92.25833442]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 862.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [102.35447157 111.50307075 112.42709201]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 863.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [103.27031467  94.88747613  89.67218859]
+Valor mínimo de R, G, B: [0 3 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 864.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [122.21030599 150.10314019 156.20101237]
+Valor mínimo de R, G, B: [0 2 3]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 865.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [82.54482313 76.18639106 75.8762717 ]
+Valor mínimo de R, G, B: [2 0 2]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 866.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [79.97671658 66.61553819 61.02694336]
+Valor mínimo de R, G, B: [1 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 867.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [127.11937717 161.44677192 171.30064453]
+Valor mínimo de R, G, B: [ 0 18 24]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 868.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [74.8770497  80.50150282 87.79306858]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 869.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [135.17039714 155.13586155 152.24720378]
+Valor mínimo de R, G, B: [ 0 10  7]
+Valor máximo de R, G, B: [240 255 255]
+
+Valores RGB para a imagem 87.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [87.67772895 89.07976562 83.35640191]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 870.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [91.79301107 87.79866319 86.02369358]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 871.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [92.62757921 92.27006619 92.48544271]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 872.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [102.52864583 107.45348199  95.83214518]
+Valor mínimo de R, G, B: [6 3 3]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 874.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 67.64536892 107.71379123 134.35067491]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 876.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 73.11044813 100.59440972 110.55621311]
+Valor mínimo de R, G, B: [0 6 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 877.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [25.27114258 22.62942166 16.61791341]
+Valor mínimo de R, G, B: [0 2 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 878.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [71.39968967 87.65980794 90.82275391]
+Valor mínimo de R, G, B: [0 2 3]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 879.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [81.53544271 83.26877604 84.0538444 ]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 88.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [52.23614149 78.3650803  92.75822591]
+Valor mínimo de R, G, B: [0 4 7]
+Valor máximo de R, G, B: [225 250 255]
+
+Valores RGB para a imagem 880.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [104.03623915 102.45046115  88.95986003]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 882.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [56.86715386 46.46674045 44.15101128]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 883.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [113.96280382 111.98049371 114.36627387]
+Valor mínimo de R, G, B: [3 6 8]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 885.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [67.11191298 71.02922635 77.51690538]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 886.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [107.79736545 102.41336046  99.69824002]
+Valor mínimo de R, G, B: [ 6 10  2]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 887.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [87.62152778 84.40604492 80.84539388]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 888.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 80.89781684 107.06178819 119.36067057]
+Valor mínimo de R, G, B: [0 4 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 89.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [27.69145725 22.29857313 19.53716254]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 891.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [88.11186415 88.77033854 83.83777669]
+Valor mínimo de R, G, B: [6 7 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 892.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 84.02181749 111.34675998 122.41321072]
+Valor mínimo de R, G, B: [0 8 3]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 893.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [81.24409831 86.03652452 91.13496853]
+Valor mínimo de R, G, B: [0 4 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 894.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [15.51485243 19.3487424  14.69605686]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 895.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [79.18574978 80.68977865 78.86052409]
+Valor mínimo de R, G, B: [0 1 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 898.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [65.57652561 81.85205512 98.47060438]
+Valor mínimo de R, G, B: [ 0  4 13]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 9.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [67.97514757 58.77219401 55.32293077]
+Valor mínimo de R, G, B: [3 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 90.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 89.63436523 111.00046549 114.46468207]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 900.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 73.68672201  83.85376302 101.70289062]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 92.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [108.01300781 136.73197808 139.80216146]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 93.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [23.23887478 21.17561198 18.69197374]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 96.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [ 85.97245768 113.11226237 118.18682183]
+Valor mínimo de R, G, B: [ 0 13 13]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 97.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [101.01305339 108.5528125  108.33668511]
+Valor mínimo de R, G, B: [0 5 0]
+Valor máximo de R, G, B: [255 255 255]
+
+Valores RGB para a imagem 99.jpg:
+Dimensões da imagem: (720, 1280, 3)
+Valor médio de R, G, B: [101.96228407 110.09035048 117.03484701]
+Valor mínimo de R, G, B: [0 0 0]
+Valor máximo de R, G, B: [255 255 255]
+
